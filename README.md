@@ -1,16 +1,11 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
+<ul>
+  <li>I'm <a href = "https://github.com/shasssi">Shashi</a>, a Software Engineer having 8.5+ years of experience working in various domains like full stack, frontend and backend.</li>
+  <li>Checkout my GitHub repositories on <a href = "https://github.com/shasssi/Data-Structure">Data Structure</a>, <a href = "https://github.com/shasssi/System-Design-Flow">System Design</a>.</li>
+  <li>Follow me on <a href="https://linkedin.com/in/shashi942">LinkedIn</a></a.</li>
+</ul>
 
-<!--
-**shasssi/shasssi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;![](https://komarev.com/ghpvc/?username=shasssi&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shasssi&show_icons=true&locale=en" alt="shasssi" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shasssi&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
